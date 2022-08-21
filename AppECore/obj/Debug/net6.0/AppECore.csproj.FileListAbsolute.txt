@@ -1,0 +1,30 @@
+C:\Users\RTHAME\Desktop\JUNINHO\Curso\AppECore\AppECore\bin\Debug\net6.0\AppECore.exe
+C:\Users\RTHAME\Desktop\JUNINHO\Curso\AppECore\AppECore\bin\Debug\net6.0\AppECore.deps.json
+C:\Users\RTHAME\Desktop\JUNINHO\Curso\AppECore\AppECore\bin\Debug\net6.0\AppECore.runtimeconfig.json
+C:\Users\RTHAME\Desktop\JUNINHO\Curso\AppECore\AppECore\bin\Debug\net6.0\AppECore.dll
+C:\Users\RTHAME\Desktop\JUNINHO\Curso\AppECore\AppECore\bin\Debug\net6.0\AppECore.pdb
+C:\Users\RTHAME\Desktop\JUNINHO\Curso\AppECore\AppECore\obj\Debug\net6.0\AppECore.csproj.AssemblyReference.cache
+C:\Users\RTHAME\Desktop\JUNINHO\Curso\AppECore\AppECore\obj\Debug\net6.0\AppECore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RTHAME\Desktop\JUNINHO\Curso\AppECore\AppECore\obj\Debug\net6.0\AppECore.AssemblyInfoInputs.cache
+C:\Users\RTHAME\Desktop\JUNINHO\Curso\AppECore\AppECore\obj\Debug\net6.0\AppECore.AssemblyInfo.cs
+C:\Users\RTHAME\Desktop\JUNINHO\Curso\AppECore\AppECore\obj\Debug\net6.0\AppECore.csproj.CoreCompileInputs.cache
+C:\Users\RTHAME\Desktop\JUNINHO\Curso\AppECore\AppECore\obj\Debug\net6.0\AppECore.dll
+C:\Users\RTHAME\Desktop\JUNINHO\Curso\AppECore\AppECore\obj\Debug\net6.0\refint\AppECore.dll
+C:\Users\RTHAME\Desktop\JUNINHO\Curso\AppECore\AppECore\obj\Debug\net6.0\AppECore.pdb
+C:\Users\RTHAME\Desktop\JUNINHO\Curso\AppECore\AppECore\obj\Debug\net6.0\AppECore.genruntimeconfig.cache
+C:\Users\RTHAME\Desktop\JUNINHO\Curso\AppECore\AppECore\obj\Debug\net6.0\ref\AppECore.dll
+C:\Users\RTHAME\Desktop\Facens Matricula\Curso\AppECore\AppECore\bin\Debug\net6.0\AppECore.exe
+C:\Users\RTHAME\Desktop\Facens Matricula\Curso\AppECore\AppECore\bin\Debug\net6.0\AppECore.deps.json
+C:\Users\RTHAME\Desktop\Facens Matricula\Curso\AppECore\AppECore\bin\Debug\net6.0\AppECore.runtimeconfig.json
+C:\Users\RTHAME\Desktop\Facens Matricula\Curso\AppECore\AppECore\bin\Debug\net6.0\AppECore.dll
+C:\Users\RTHAME\Desktop\Facens Matricula\Curso\AppECore\AppECore\bin\Debug\net6.0\AppECore.pdb
+C:\Users\RTHAME\Desktop\Facens Matricula\Curso\AppECore\AppECore\obj\Debug\net6.0\AppECore.csproj.AssemblyReference.cache
+C:\Users\RTHAME\Desktop\Facens Matricula\Curso\AppECore\AppECore\obj\Debug\net6.0\AppECore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RTHAME\Desktop\Facens Matricula\Curso\AppECore\AppECore\obj\Debug\net6.0\AppECore.AssemblyInfoInputs.cache
+C:\Users\RTHAME\Desktop\Facens Matricula\Curso\AppECore\AppECore\obj\Debug\net6.0\AppECore.AssemblyInfo.cs
+C:\Users\RTHAME\Desktop\Facens Matricula\Curso\AppECore\AppECore\obj\Debug\net6.0\AppECore.csproj.CoreCompileInputs.cache
+C:\Users\RTHAME\Desktop\Facens Matricula\Curso\AppECore\AppECore\obj\Debug\net6.0\AppECore.dll
+C:\Users\RTHAME\Desktop\Facens Matricula\Curso\AppECore\AppECore\obj\Debug\net6.0\refint\AppECore.dll
+C:\Users\RTHAME\Desktop\Facens Matricula\Curso\AppECore\AppECore\obj\Debug\net6.0\AppECore.pdb
+C:\Users\RTHAME\Desktop\Facens Matricula\Curso\AppECore\AppECore\obj\Debug\net6.0\AppECore.genruntimeconfig.cache
+C:\Users\RTHAME\Desktop\Facens Matricula\Curso\AppECore\AppECore\obj\Debug\net6.0\ref\AppECore.dll
