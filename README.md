@@ -1,4 +1,4 @@
-# Projeto-e-Core </h1>
+# Projeto e-Core </h1>
 Aplicação para armazenamento de dados cadastrais de pessoas.
 ## :hammer: Funcionalidades do projeto
 - `Funcionalidade 1` `Cadastrar pessoas`: Para cadastrar novas pessoas precisamos informar os parâmetros: *Nome* e *Idade*.
