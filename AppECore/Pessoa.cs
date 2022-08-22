@@ -13,7 +13,7 @@
             SetFaixaEtaria(idade);
         }     
         
-        public void SetFaixaEtaria(int idade)
+        private void SetFaixaEtaria(int idade)
         {
             if (idade <= 12)
             {
